@@ -1,5 +1,5 @@
-#matrix-liblary
-
+# matrix-liblary
+Header “matrix.hpp” declares a set of functions to perform matrix operations
 
 
 
