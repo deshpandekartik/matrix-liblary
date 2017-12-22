@@ -1,6 +1,6 @@
 # matrix-liblary
-Header “matrix.hpp” declares a set of functions to perform matrix operations
 
+Header “matrix.hpp” declares a set of functions to perform matrix operations
 
 
 # References :
